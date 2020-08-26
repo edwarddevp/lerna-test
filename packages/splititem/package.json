@@ -1,10 +1,10 @@
 {
-  "name": "@codecraftkit/usetypeeahead",
-  "version": "0.0.2",
+  "name": "@codecraftkit/splititem",
+  "version": "1.0.5-alpha.0",
   "description": "Made with create-react-library",
   "author": "CodeCraft",
   "license": "MIT",
-  "repository": "CodeCraft/usetypeahead",
+  "repository": "CodeCraft/splititem",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -26,9 +26,7 @@
     "predeploy": "cd example && npm install && npm run build",
     "deploy": "gh-pages -d example/build"
   },
-  "peerDependencies": {
-    "@apollo/client": "^3.0.2",
-    "@codecraftkit/comet": "^1.0.5-alpha.0",
+  "dependencies": {
     "react": "^16.0.0"
   },
   "devDependencies": {
@@ -55,5 +53,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "3b042eefbfcc6e8707011314792110a8d30314f7"
+  "gitHead": "1bf16fcc5bc1a53494803d60288c8d4d1a02de87"
 }
