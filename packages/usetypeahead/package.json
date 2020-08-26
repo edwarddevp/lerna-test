@@ -1,6 +1,6 @@
 {
   "name": "@codecraftkit/usetypeeahead",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Made with create-react-library",
   "author": "CodeCraft",
   "license": "MIT",
@@ -55,5 +55,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "3b042eefbfcc6e8707011314792110a8d30314f7"
+  "gitHead": "098767c0913da8e65dacf9b7e90c848d6e9faf97"
 }
