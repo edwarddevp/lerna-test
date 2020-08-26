@@ -1,6 +1,6 @@
 {
-  "name": "@test-code-1/usetypeeahead",
-  "version": "0.0.1",
+  "name": "@codecraftkit/usetypeeahead",
+  "version": "0.0.2",
   "description": "Made with create-react-library",
   "author": "CodeCraft",
   "license": "MIT",
