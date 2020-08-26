@@ -1,18 +1,18 @@
 {
-  "name": "@test-code-1/usetypeeahead",
-  "version": "0.0.4",
-  "description": "Made with create-react-library",
-  "author": "CodeCraft",
+  "name": "@test-code-1/layouttools",
+  "version": "1.0.9-alpha.0",
+  "description": "Some layout methods and others",
+  "author": "cc-dev-leader",
   "license": "MIT",
-  "repository": "CodeCraft/usetypeahead",
+  "repository": "cc-dev-leader/@test-code-1/layouttools",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
-  "engines": {
-    "node": ">=10"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "engines": {
+    "node": ">=10"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
@@ -27,8 +27,6 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "@apollo/client": "^3.0.2",
-    "@test-code-1/comet": "^1.0.5-alpha.0",
     "react": "^16.0.0"
   },
   "devDependencies": {
@@ -55,5 +53,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "45eed4621c419f1ee053f12e30daf839ebc0dca8"
+  "gitHead": "b12cbffccf665036c59873574fc30f10ea3100e4"
 }

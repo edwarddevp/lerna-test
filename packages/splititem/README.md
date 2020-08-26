@@ -2,19 +2,19 @@
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/@codecraftkit/splititem.svg)](https://www.npmjs.com/package/@codecraftkit/splititem) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@test-code-1/splititem.svg)](https://www.npmjs.com/package/@test-code-1/splititem) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save @codecraftkit/splititem
+npm install --save @test-code-1/splititem
 ```
 
 ## Usage
 
 ```jsx
 
-import splitItem from '@codecraftkit/splititem'
+import splitItem from '@test-code-1/splititem'
 ```
 
 ## License

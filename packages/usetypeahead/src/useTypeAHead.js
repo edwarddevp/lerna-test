@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Comet } from '@codecraftkit/helpers'
+import { Comet } from '@test-code-1/helpers'
 import { useQuery } from '@apollo/client'
 
 export const useTypeAHead = ({path, field, getAllCometData, QUERY, collection, customGet, customSend}) => {
